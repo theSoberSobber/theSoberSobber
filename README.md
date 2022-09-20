@@ -1,4 +1,4 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Pavit Chhabra</h2>
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <h4 align="center">A passionate developer and a Geek.</h4>
 
 - 🔭 Most Recent Project [oMega](https://github.com/theSoberSobber/oMega)
