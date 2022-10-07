@@ -1,13 +1,13 @@
 <h2 align="center">Hey, I am Pavit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <h4 align="center">Energetic Developer and Infosec enthusiast!</h4>
 
-- 🔭 Most Recent Project [AT-BOT](https://github.com/theSoberSobber/AT-BOT)
+- 🔭 Most Recent Project **[AT-BOT](https://github.com/theSoberSobber/AT-BOT)**
 
 - 🌱 I’m currently learning **Websockets**
 
-- 😄 Main writer and Founder @theWeekndStartup
+- 😄 Main writer and Founder **@theWeekndStartup**
 
-- ⚡ Founder of [AT-Systems](https://github.com/theSoberSobber/AT-BOT).
+- ⚡ Building big at **[AT-Systems](https://github.com/theSoberSobber/AT-BOT)**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSoberSobber" alt="Pavit" /> </p>
 
