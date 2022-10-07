@@ -1,13 +1,13 @@
-<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-<h4 align="center">A passionate developer and a Geek.</h4>
+<h2 align="center">Hey, I am Pavit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+<h4 align="center">Energetic Developer and Infosec enthusiast!</h4>
 
-- 🔭 Most Recent Project [oMega](https://github.com/theSoberSobber/oMega)
+- 🔭 Most Recent Project [AT-BOT](https://github.com/theSoberSobber/AT-BOT)
 
-- 🌱 I’m currently learning **Flask (python)**
+- 🌱 I’m currently learning **Websockets**
 
-- 😄 Webmain of [Nothing](no forum), a website dedicated to providing Modded application for Android!
+- 😄 Main writer and Founder @theWeekndStartup
 
-- ⚡ Founder of [Nothing](https://telegram.dog/allapkforfree) at Telegram, with over 200k subscribers.
+- ⚡ Founder of [AT-Systems](https://github.com/theSoberSobber/AT-BOT).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Pavit" /> </p>
 
