@@ -7,7 +7,7 @@
 
 - 😄 Main writer and Founder **@theWeekndStartup**
 
-- ⚡ Building big at **[AT-Systems](https://github.com/theSoberSobber/AT-BOT)**.
+- ⚡ Building big at **[AT-Systems](https://github.com/theSoberSobber/AT-BOT)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theSoberSobber" alt="Pavit" /> </p>
 
