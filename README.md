@@ -9,7 +9,7 @@
 
 - ⚡ Founder of [AT-Systems](https://github.com/theSoberSobber/AT-BOT).
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-Mendiratta" alt="Pavit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theSoberSobber" alt="Pavit" /> </p>
 
 ## 🛠️ Tried hands on
 
