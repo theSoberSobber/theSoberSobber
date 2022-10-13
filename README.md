@@ -4,8 +4,8 @@
 - 🔭 Most Recent Project **[AT-BOT](https://github.com/theSoberSobber/AT-BOT)**
 
 - 🌱 I’m currently learning **Websockets**
-
-<!-- - 😄 Main writer and Founder **@theWeekndStartup**
+<!-- 
+ 😄 Main writer and Founder **@theWeekndStartup**
 
 - ⚡ Building big at **[AT-Systems](https://github.com/theSoberSobber/AT-BOT)** -->
 
@@ -81,14 +81,14 @@
 
 <hr />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=theSobersobber&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Prince's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Mendiratta&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=theSobersobber&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Prince's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSoberSobber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
 | ------------- | ------------- |
 
 <hr />
 
 <p align="center">
-    <a href="https://twitter.com/thesoberSobber" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="PriMendiratta" height="30" width="30" /></a>
-    <a href="https://www.linkedin.com/in/pavitchhabrawork" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="Prince-Mendiratta" height="30" width="30" /></a>
-    <a href="https://instagram.com/pavit_1611" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="prince.mendiratta" height="30" width="30" /></a>
-    <a href="https://telegram.dog/fictify" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="anubisxx" height="30" width="30" /></a>
+    <a href="https://twitter.com/thesoberSobber" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="theSoberSobber" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/pavitchhabrawork" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="Pavit Chhabra" height="30" width="30" /></a>
+    <a href="https://instagram.com/petty_pavit" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="petty_pavit" height="30" width="30" /></a>
+    <a href="https://telegram.dog/fictify" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="theSoberSobber" height="30" width="30" /></a>
 </p>
