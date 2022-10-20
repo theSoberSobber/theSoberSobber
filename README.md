@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I am Pavit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <h4 align="center">Energetic Developer and Infosec enthusiast!</h4>
 
-- 🔭 Most Recent Project **[AT-BOT](https://github.com/theSoberSobber/AT-BOT)**
+- 🔭 Most Recent Project **[AlertBot](https://github.com/theSoberSobber/AlertBot)**
 
 - 🌱 I’m currently learning **Websockets**
 <!-- 
