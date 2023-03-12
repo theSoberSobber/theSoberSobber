@@ -1,12 +1,174 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>theSoberSobber</title>
+	<title>Pavit Chhabra</title>
+  <meta name="keywords" content="Pavit Chhabra">
+  <meta name="description" content="portfolio site">
+  <meta name="author" content="Pavit Chhabra">
+  <link rel="icon" href="siteicon.png" type="image/png" sizes="16x16">
+	<link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+	<link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    Abhi Nahi Banaya
+	<div id="nescss">
+      <header :class="{ sticky: scrollPos > 50 }">
+        <div class="container">
+          <div class="nav-brand">
+            <a href="https://github.com/theSoberSobber">
+              <h1><img src="img002.png"/ height="70" width="70"> Pavit Chhabra</h1>
+            </a>
+            <p>Competetive Programmer, Energetic Web developer and Infosec Enthusiast!</p>
+          </div>
+
+          <div class="social-buttons">
+            <div class="share">
+              <a href="https://in.linkedin.com/in/pavitchhabrawork" target="_blank"><i class="nes-icon linkedin"></i></a>
+              <a href="https://github.com/theSoberSobber" target="_blank"><i class="nes-icon github"></i></a>
+              <a href="https://www.codechef.com/maafick_op" target="_blank">CC</a>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <div class="container">
+        <main class="main-content">
+        	<section class="topic">
+	            <div class="nes-container with-title">
+		          <h2 class="title"><a href="#about">#</a>About</h2>
+		          <p>
+                I am currently a Sophmore Computer Science and Enginerring student at Maulana Azad National Institute of Technology, Bhopal. <br /><br />
+                I incline towards the Javascript ecosystem and have fluency in developing web apps using React, NodeJS (Express + NEXT) and Python(Django + Flask). <br /> <br />
+                I have a keen interest in learning new technologies and always staying on the cutting-edge. <br /><br />
+                I am currently learning new frameworks that employ different architectures/innovative optimizations. (Island arch, Lazy loading).
+                </p>
+		        </div>
+          	</section>
+
+            <section class="topic">
+              <div class="nes-container with-title is-right">
+                <h2 class="title"><a href="#about">#</a>My Dev Skills</h2>
+                
+                  <div class="nes-table-responsive">
+                    <table class="nes-table is-bordered is-centered" style="margin-left: auto; margin-right: auto;">
+                      <thead>
+                        <tr>
+                          <th class="nes-text is-primary">CPP17+</th>
+                          <th class="nes-text is-error">REST APIs</th>
+                          <th class="nes-text is-primary">HTML5</th>
+                          <th class="nes-text is-error">Elixir</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="nes-text is-error">Node FWs</td>
+                          <td class="nes-text is-primary">Typescript</td>
+                          <td class="nes-text is-error">Node.js</td>
+                          <td class="nes-text is-primary">React</td>
+                        </tr>
+                        <tr>
+                          <td class="nes-text is-primary">MySql</td>
+                          <td class="nes-text is-error">Firebase</td>
+                          <td class="nes-text is-primary">MongoDB</td>
+                          <td class="nes-text is-error">Next.JS</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
+              </div>
+            </section>
+
+            <section class="topic">
+              <div class="nes-container with-title is-left">
+                <h2 class="title"><a href="#about">#</a>My Works</h2>
+                
+                <div class="lists">
+                  <ul class="nes-list is-disc">
+                    <li><a href="https://github.com/theSoberSobber/HTTPWebServer" target="_blank">A Barebones HTTP Web Server in C++!</a>
+                      <span class="nes-text is-error">Built on top of socket.h and the ASIO library, this has a threadpool too!</span>
+                    </li><br/>  
+
+                    <li><a href="https://github.com/theSoberSobber/AlertBot" target="_blank">AlertBot and Dynamic Groups</a>
+                      <span class="nes-text is-error">A whatsapp bot that scrapes many college websites and sends a message in the <b>Dynamic Groups (created and managed by the bot)</b> to reduce workload off of Class Representatives!</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/CP-Snippets" target="_blank">CP-Snippets</a>
+                      <span class="nes-text is-error">A collection of my Competetive Programming snippets in C++, which also generate a INDEX in the Readme and a <a href="https://bit.ly/cpsnippets">website</a> to view all those snippets</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/Web3-Hackathon-Template" target="_blank">Web3 Hackathon Template</a>
+                      <span class="nes-text is-error">A standard web3 hackathon template that has a smart contract and builds on top of the polygon blockchain and Hardhat framework! This template was used by one of the runner-up teams in the ITOODSE hackathon organized in delhi.</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/aayanlobo/ecell_nitb_hack2k23_HackTheHustle" target="_blank">NIT Bhopal | E-Cell Hackathon</a>
+                      <span class="nes-text is-error">A project made for the 48 Hour hacakthon organized by NIT Bhopal. A graphical and Intutive Authentication system with more entropy than standard alphanumeric passes.</span>
+                    </li><br/>
+                  </ul>
+                </div>
+
+              </div>
+            </section>
+
+            <section class="topic">
+              <div class="nes-container with-title is-left">
+                <h2 class="title"><a href="#about">#</a>Miscellaneous Projects!</h2>
+            
+                <div class="lists">
+                  <ul class="nes-list is-disc">
+                    <li><a href="https://github.com/theSoberSobber/freenom-DDNS" target="_blank">Freenom DDNS</a>
+                      <span class="nes-text is-error">A dynamic DNS script to update the DNS records for my self hosted server.</span>
+                    </li><br/>  
+
+                    <li><a href="https://github.com/theSoberSobber/dotfiles" target="_blank">Arch-Dotfiles</a>
+                      <span class="nes-text is-error">My collection of dotfiles from Arch Linux on Hyprland.</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/Whatsapp-Bot-Template" target="_blank">WA Bot Template</a>
+                      <span class="nes-text is-error">Whatsapp Bot Template for anyone to spin up a Whatsapp Bot quickly!</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/AT-BOT" target="_blank">Attendance Taking Bot</a>
+                      <span class="nes-text is-error">A attendance taking whatsapp bot that counts students attendance.</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/API-and-Site-AT-Sytems" target="_blank">API System for Attendace Bot</a>
+                      <span class="nes-text is-error">A attendance taking whatsapp bot that counts students attendance.</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/OTP-Spam-Client" target="_blank">OTP Spam Client</a>
+                      <span class="nes-text is-error">OTP Spammer to demonstrate critical vulnerabilities in companies OTP apis.</span>
+                    </li><br/>
+
+                    <li><a href="https://github.com/theSoberSobber/rss-cf" target="_blank">CF-RSS</a>
+                      <span class="nes-text is-error">RSS Feed using codeforces api monitored by IFTTT Applet</span>
+                    </li><br/>
+                  </ul>
+                </div>
+
+              </div>
+            </section>
+
+            <section class="topic">
+              <div class="nes-container with-title is-right">
+                <h2 class="title"><a href="#about">#</a>Contact Me! </h2>
+                Phone no:
+                <a href="tel:+916001286467" class="is-left">9770483089</a>
+                Email:
+                <a href="mailto:parthavborah@gmail.com">pavitchhabra2000@gmail.com</a>
+              </div>
+            </section>
+         </main>
+
+         <footer>
+          <p>
+            Copyright &copy;
+            <script>
+              document.write(new Date().getFullYear())
+            </script>&nbsp;-- &lt;theSoberSobber&#47;&gt;
+          </p>
+        </footer>
+      </div>
+    </div>
 </body>
 </html>
