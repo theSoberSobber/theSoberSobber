@@ -4,6 +4,8 @@
 - 🔭 Most Recent Project **[Docker Manager](https://github.com/theSoberSobber/Docker-Manager)**
 
 - 🌱 I’m currently learning **NAT Punching.**
+
+- Blog: [pavit.prose.sh](https://pavit.prose.sh/)
 <!-- 
  😄 Main writer and Founder **@theWeekndStartup**
 
@@ -78,11 +80,6 @@
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F37626.svg?logo=ubuntu&logoColor=white" height="24"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="24"></a>
 </p>
-
-<hr />
-
-// | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theSobersobber&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="theSoberSobber's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSoberSobber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
-// | ------------- | ------------- |
 
 <hr />
 
