@@ -84,8 +84,8 @@
 <hr />
 
 <p align="center">
-    <a href="https://twitter.com/thesoberSobber" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="theSoberSobber" height="30" width="30" /></a>
+    <a href="https://twitter.com/mesosan16" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/twitter.svg" alt="theSoberSobber" height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/pavitchhabrawork" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/linkedin.svg" alt="Pavit Chhabra" height="30" width="30" /></a>
-    <a href="https://instagram.com/petty_pavit" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="petty_pavit" height="30" width="30" /></a>
-    <a href="https://telegram.dog/fictify" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="theSoberSobber" height="30" width="30" /></a>
+    <a href="https://instagram.com/inv_ackerman" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/instagram.svg" alt="petty_pavit" height="30" width="30" /></a>
+    <a href="https://telegram.dog/mesosan" target="blank"><img align="center" src="https://raw.githubusercontent.com/Prince-Mendiratta/Prince-Mendiratta/main/assets/telegram.svg" alt="theSoberSobber" height="30" width="30" /></a>
 </p>
