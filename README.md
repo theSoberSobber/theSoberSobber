@@ -1,9 +1,9 @@
 <h2 align="center">Hey, I am Pavit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 <h4 align="center">Energetic Developer and Infosec enthusiast!</h4>
 
-- 🔭 Most Recent Project **[AlertBot](https://github.com/theSoberSobber/AlertBot)**
+- 🔭 Most Recent Project **[Docker Manager](https://github.com/theSoberSobber/Docker-Manager)**
 
-- 🌱 I’m currently learning **Websockets**
+- 🌱 I’m currently learning **NAT Punching.**
 <!-- 
  😄 Main writer and Founder **@theWeekndStartup**
 
@@ -81,8 +81,8 @@
 
 <hr />
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=theSobersobber&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="Prince's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSoberSobber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
-| ------------- | ------------- |
+// | <img align="center" src="https://github-readme-stats.vercel.app/api?username=theSobersobber&show_icons=true&count_private=true&theme=react&&hide_border=tru&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&include_all_commits=true&cache_seconds=86400" alt="theSoberSobber's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSoberSobber&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=C" /> |
+// | ------------- | ------------- |
 
 <hr />
 
